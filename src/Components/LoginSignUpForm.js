@@ -4,11 +4,6 @@ function LoginSignUpForm()
 {
     const[name,setName]= useState("Sign Up");
 
-    
-
-
-
-
     return(
         <div className="container">
             <div className="header">
